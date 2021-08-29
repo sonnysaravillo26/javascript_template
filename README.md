@@ -9,4 +9,5 @@ Understanding the concepts and functionalities.
 5. asyncawait.js - to understand the "async" and "await" concept.
 
 ## Command lines and Descriptions
-- >node <FILENAME> - Command line to run a file using node js command.
+1. Command line to run a file using node js command.
+>node <FILENAME>
