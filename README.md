@@ -10,4 +10,4 @@ Understanding the concepts and functionalities.
 
 ## Command lines and Descriptions
 1. Command line to run a file using node js command.
->node <FILENAME>
+>node 'FILENAME'
